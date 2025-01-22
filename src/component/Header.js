@@ -29,7 +29,7 @@ const Header = () => {
   }
 
   return (
-    <div className="flex flex-col border-gray-300 p-4 mx-20">
+    <div className="flex flex-col border-gray-300 py-4 mx-20">
       <h1 className="text-2xl border-b font-bold mb-4">Web Interface</h1>
       <div className="flex justify-between items-center">
         <span className="text-lg font-semibold text-gray-600">
